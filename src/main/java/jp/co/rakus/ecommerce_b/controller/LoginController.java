@@ -18,7 +18,7 @@ import jp.co.rakus.ecommerce_b.service.LoginService;
 /**
  * ログイン処理をするコントローラー
  * 
- * @author kento
+ * @author kentoo
  *
  */
 @Controller
